@@ -1,0 +1,22 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Player player = new Player();
+		player.name = "Time";
+		player.health = 20;
+		player.weapon = "Sword";
+		
+		int damage = 10;
+		player.loseHealth(damage);
+		System.out.println("Remaining health = " + player.healthRemaining());
+		
+		damage = 11;
+		player.health = 200; //takes control out of the player class, because this field is accessible directly to the user
+		player.loseHealth(damage);
+		System.out.println("Remaining health = " + player.healthRemaining());
+		
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+
+public class OnStar {
+	
+	public double calculateMileage(double miles, double fuelConsumed) {
+		return miles/fuelConsumed;
+	}
+	
+	public double calculateAverageSpeed(double[] speedHistory) {
+		double sumOfSpeeds = 0;
+		for (int i = 0; i < speedHistory.length; i++) {
+			sumOfSpeeds = sumOfSpeeds + speedHistory[i];
+		}
+		return sumOfSpeeds/speedHistory.length;
+	}
+
+}

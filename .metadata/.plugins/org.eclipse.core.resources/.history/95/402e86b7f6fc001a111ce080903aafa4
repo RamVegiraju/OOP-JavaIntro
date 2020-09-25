@@ -1,0 +1,16 @@
+import java.util.HashSet;
+
+public class Lab10 {
+	
+	public HashSet<String> names(HashSet<String> cards, HashSet<String> topNames) {
+		
+		HashSet<String> result = new HashSet<String>();
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

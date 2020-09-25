@@ -1,0 +1,18 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class OnStarTest {
+
+	@Test
+	public void calculateMileageTest() {
+		OnStar myOnStar = new OnStar();
+		assertEquals(10.0, myOnStar.calculateMileage(100., 10));
+	}
+	
+	@Test
+	public void calculateAverageSpeedTest() {
+		
+	}
+
+}

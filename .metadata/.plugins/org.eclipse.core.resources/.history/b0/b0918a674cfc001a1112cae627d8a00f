@@ -1,0 +1,18 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class OnStarTest {
+
+	@Test
+	public void calculateMileageTest() {
+		OnStar myOnStar = new OnStar();
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	public void calculateAverageSpeedTest() {
+		fail("Not yet implemented");
+	}
+
+}

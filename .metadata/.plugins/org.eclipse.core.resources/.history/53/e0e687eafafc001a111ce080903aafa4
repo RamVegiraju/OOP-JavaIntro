@@ -1,0 +1,16 @@
+
+public class EnhancedPlayer {
+	
+	private String name;
+	private int health;
+	private String weapon;
+	
+	public EnhancedPlayer(String name, int health, String weapon) {
+		this.name = name;
+		this.health = health;
+		this.weapon = weapon;
+	}
+	
+	
+
+}

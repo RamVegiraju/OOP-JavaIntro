@@ -1,0 +1,10 @@
+
+public class Expt {
+
+	HashMap<String,Integer> zooAnimals = new HashMap<String,Integer>();
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

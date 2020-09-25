@@ -1,0 +1,16 @@
+
+public class Vehicle {
+	
+	private int wheels;
+	private String fuel;
+	
+	Vehicle(int wheels, String fuel) {
+		this.wheels = wheels;
+		this.fuel = fuel;
+	}
+
+	public static void main(String[] args) {
+		
+	}
+
+}
