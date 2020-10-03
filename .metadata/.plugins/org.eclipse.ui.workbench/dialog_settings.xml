@@ -13,14 +13,26 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/ramvegiraju/Downloads/CS2110Homework3.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test7.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test6.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test5.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test4.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test3.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/test2.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/test1.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/CS2110HOMEWORK2zip.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/Homework2CS2110.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/hw2test.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/CS2110Homework2.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/HW2CS2110.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/cs21102.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/hw2110.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/hw2.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/test.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/HW1MemeMagicDesign.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/HW1Design.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/hw1memedesign.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/MEMEDESIGNHW1.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/memedesignHW1.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/HW1MEMEMGAGICDESIGN.zip"/>
 		</list>
 	</section>
 </section>

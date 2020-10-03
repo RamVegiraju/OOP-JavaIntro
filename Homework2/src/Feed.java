@@ -25,14 +25,9 @@ public class Feed {
 	
 	//default constructor
 	public Feed() {
-		this.memes = null;
+		this.memes = new ArrayList<Meme>();
 	}
 	
-	//constructor
-	public Feed(ArrayList<Meme> memes) {
-		this.memes = memes;
-	}
-
 	/**
 	 * @return the memes
 	 */
@@ -72,7 +67,7 @@ public class Feed {
 	//testing
 	public static void main(String[] args) {
 		ArrayList<Meme> testing = new ArrayList<Meme>();
-		Feed sharedFeed = new Feed(testing);
+		Feed sharedFeed = new Feed();
 		User user1 = new User("Ram");
 		User user2 = new User("RamVeg");
 		User user3 = new User("RamVegiraju");
