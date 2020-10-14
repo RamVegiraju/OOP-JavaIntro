@@ -23,4 +23,8 @@
 <fullyQualifiedTypeName name="org.junit.Before"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="Preprocessor"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.util.CoreMap"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.neural.rnn.RNNCoreAnnotations"/>
+<fullyQualifiedTypeName name="edu.stanford.nlp.sentiment.SentimentCoreAnnotations"/>
 </qualifiedTypeNameHistroy>

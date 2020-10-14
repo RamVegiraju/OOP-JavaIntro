@@ -4,15 +4,21 @@
 	</section>
 	<section name="ImportExportAction">
 		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
 		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 	<section name="ZipFileExportWizard">
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/ramvegiraju/Downloads/CS2110HW5.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/HW5.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/CS2110Homework3.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/test7.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/test6.zip"/>
@@ -31,8 +37,21 @@
 			<item value="/Users/ramvegiraju/Downloads/hw2.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/test.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/HW1MemeMagicDesign.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/HW1Design.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/hw1memedesign.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/ramvegiraju/Downloads/Homework5/JavaFiles"/>
+			<item value="/Users/ramvegiraju/Downloads/AnimalGoesToVet/src"/>
+			<item value="/Users/ramvegiraju/Downloads/AnimalGoesToVet"/>
 		</list>
 	</section>
 </section>
