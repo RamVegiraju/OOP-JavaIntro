@@ -27,4 +27,11 @@
 <fullyQualifiedTypeName name="edu.stanford.nlp.util.CoreMap"/>
 <fullyQualifiedTypeName name="edu.stanford.nlp.neural.rnn.RNNCoreAnnotations"/>
 <fullyQualifiedTypeName name="edu.stanford.nlp.sentiment.SentimentCoreAnnotations"/>
+<fullyQualifiedTypeName name="java.awt.Container"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JTextField"/>
+<fullyQualifiedTypeName name="javax.swing.Action"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
 </qualifiedTypeNameHistroy>
