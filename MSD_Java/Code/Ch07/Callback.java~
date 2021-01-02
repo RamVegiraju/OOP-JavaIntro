@@ -1,3 +1,0 @@
-public interface Callback<T> {
-    public void visit( T data );
-}

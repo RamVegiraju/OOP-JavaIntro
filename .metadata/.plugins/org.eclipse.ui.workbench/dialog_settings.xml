@@ -17,6 +17,8 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/ramvegiraju/Downloads/FinalCodingQuestion.zip"/>
+			<item value="/Users/ramvegiraju/Downloads/CS2110HW9.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/CS2110HW5.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/HW5.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/CS2110Homework3.zip"/>
@@ -35,8 +37,6 @@
 			<item value="/Users/ramvegiraju/Downloads/cs21102.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/hw2110.zip"/>
 			<item value="/Users/ramvegiraju/Downloads/hw2.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/test.zip"/>
-			<item value="/Users/ramvegiraju/Downloads/HW1MemeMagicDesign.zip"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">

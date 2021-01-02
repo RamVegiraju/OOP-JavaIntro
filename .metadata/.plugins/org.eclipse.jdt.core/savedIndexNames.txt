@@ -31,6 +31,8 @@ INDEX VERSION 1.131+/Users/ramvegiraju/Desktop/Undergrad/Fall2020/CS2110/.metada
 3678844658.index
 1116325292.index
 2064801972.index
+3448823292.index
+1195367774.index
 811181177.index
 2263505164.index
 897828045.index
@@ -51,15 +53,18 @@ INDEX VERSION 1.131+/Users/ramvegiraju/Desktop/Undergrad/Fall2020/CS2110/.metada
 3703194086.index
 2057385685.index
 3440995967.index
+3493452437.index
 2380611695.index
 4142785596.index
 793669427.index
 61910477.index
 3792168602.index
 864325587.index
+776870032.index
 379952594.index
 2791811653.index
 1155368243.index
+3074902314.index
 3551808095.index
 1261724684.index
 1400968959.index
@@ -69,6 +74,7 @@ INDEX VERSION 1.131+/Users/ramvegiraju/Desktop/Undergrad/Fall2020/CS2110/.metada
 2691058185.index
 4039342375.index
 3211336909.index
+2693263449.index
 996752225.index
 2313438750.index
 2925295723.index
@@ -82,6 +88,7 @@ INDEX VERSION 1.131+/Users/ramvegiraju/Desktop/Undergrad/Fall2020/CS2110/.metada
 3331297608.index
 3235787926.index
 164337126.index
+3290742392.index
 4099648560.index
 2973302221.index
 2494992707.index
